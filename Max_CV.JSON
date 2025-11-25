@@ -1,11 +1,41 @@
 {
     "first name": "Maksim",
     "last name": "Kazlouski",
+    "photo": "https://raw.githubusercontent.com/iDevorei/CV/refs/heads/main/files/img_profile_01.jpeg",
     "function": "Software Testing Engineer",
     "contacts": {
         "phone": "+375291993199",
         "email": "messewalter@gmail.com",
         "link": "https://github.com/iDevorei",
         "location": "Minsk, Belarus"
+    },
+    "skills": {
+        "Creating checklists, test cases and bug reports": {
+            "example_1": "https://docs.google.com/spreadsheets/d/165pgLf36hk7sNHpZMn_qptmEW2PvNLru/edit?gid=1434793168#gid=1434793168",
+            "example_2": "https://docs.google.com/spreadsheets/d/1bZ7XImtEn4YGj5v1yAi6ROUf6Z3cTZx4vUgW044M0iw/edit?gid=0#gid=0",
+            "example_3": "https://app.clickup.com/90151625861/v/li/901515318471",
+            "example_4": "https://app.clickup.com/90151625861/v/li/901515933625"
+        },
+        "teamwork tools": ["Agile", "Scrum", "Kanban"],
+        "test design techniques": {
+            "equivalence classes": "https://docs.google.com/spreadsheets/d/1Z7ugUKIrm8t8bT8OrIdlMYkMa-ouNfZO/edit?gid=788685796#gid=788685796",
+            "pairwise testing": "https://docs.google.com/spreadsheets/d/1PKEEAiBJbgixdd2xDONkGPqzA01i8dIy/edit?gid=1465317084#gid=1465317084"
+        },
+        "life cycles": ["SDLC", "STLC"],
+        "web-technologies and protocols": "theory HTTP/HTTPS",
+        "SQL": "https://github.com/iDevorei/SQL/blob/main/README.md",
+        "API(Postman)": "https://github.com/iDevorei/API/tree/main",
+        "HTML, CSS": "https://github.com/iDevorei/Exam_html_css",
+        "JavaScript": "https://github.com/iDevorei/JS_Homeworks"
+    },
+    "tools": ["Visual Studio Code", "Git", "Github", "Github Desktop", "Postman", "JMeter", "Clickup", "Figma(basic)"],
+    "education": {
+        "BSUCA": {
+            "title": "Belarusian State University of Culture and Arts",
+            "years": "2014-2018",
+            "faculty": "Faculty of Information and Document Communications",
+            "speciality": "library and information activities (automation)",
+            "proof": ""
+        }
     }
 }
