@@ -36,6 +36,18 @@
             "faculty": "Faculty of Information and Document Communications",
             "speciality": "library and information activities (automation)",
             "proof": "https://raw.githubusercontent.com/iDevorei/CV/refs/heads/main/img/img_proof_01.jpeg"
+        },
+        "BelHard": {
+            "title": "Belhard Academy",
+            "year": 2025,
+            "speciality": "Software Testing Engineer",
+            "proof": "https://raw.githubusercontent.com/iDevorei/CV/refs/heads/main/img/img_proof_02.jpeg"
         }
+    },
+    "work experience": "is studying",
+    "soft skills": ["curious", "goal-oriented", "adaptable", "team player"],
+    "languages": {
+        "English": "A1(in progress)",
+        "Russian": "native speaker"
     }
 }
